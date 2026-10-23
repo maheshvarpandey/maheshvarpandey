@@ -16,7 +16,7 @@
   <a href="https://maheshvarpa.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/maheshvarpandey">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -156,7 +156,7 @@ An e-commerce platform with vehicle-specific auto-part compatibility features.
 I'm always happy to connect with developers, collaborate on interesting products, and exchange ideas about full-stack development.
 
 - 🌐 **Portfolio:** [maheshvarpa.web.app](https://maheshvarpa.web.app/)
-- 💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/maheshvarpandey)
 
 <p align="center">
   <i>Building useful software, learning continuously, and improving one release at a time.</i>
