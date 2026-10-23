@@ -2,7 +2,7 @@
   GitHub Profile README
   1. Create a public repository with the same name as your GitHub username.
   2. Add this file as README.md.
-  3. Replace YOUR_GITHUB_USERNAME below with your GitHub username.
+  3. Replace maheshvarpandey below with your GitHub username.
 -->
 
 <h1 align="center">Hi 👋, I'm Maheshvar Kumar Pandey</h1>
@@ -35,6 +35,28 @@
 - 🌐 Portfolio: [maheshvarpa.web.app](https://maheshvarpa.web.app/)
 
 I enjoy turning product requirements into reliable applications, improving existing systems, and working with teams to deliver maintainable software.
+
+## 🧭 Domain Expertise
+
+My experience spans customer-facing web products and backend platforms across these business domains:
+
+<p>
+  <img src="https://img.shields.io/badge/Messaging%20%26%20Communications-SMS%20Platforms-2563EB?style=flat-square" alt="Messaging and communications"/>
+  <img src="https://img.shields.io/badge/Microservices%20%26%20Platform%20Engineering-Backend%20Services-7C3AED?style=flat-square" alt="Microservices and platform engineering"/>
+  <img src="https://img.shields.io/badge/Online%20Auctions-Real--Time%20Bidding-0F766E?style=flat-square" alt="Online auctions"/>
+  <img src="https://img.shields.io/badge/Healthcare-Health%20Data%20Platforms-15803D?style=flat-square" alt="Healthcare"/>
+  <img src="https://img.shields.io/badge/E--commerce-Automotive%20Retail-9A3412?style=flat-square" alt="E-commerce and automotive"/>
+  <img src="https://img.shields.io/badge/Fintech--Adjacent-Savings%20%26%20Rewards-B45309?style=flat-square" alt="Savings and rewards"/>
+  <img src="https://img.shields.io/badge/Referral%20Marketing-Customer%20Growth-BE185D?style=flat-square" alt="Referral marketing"/>
+  <img src="https://img.shields.io/badge/Business%20Applications-Workforce%20%26%20Productivity-475569?style=flat-square" alt="Business applications"/>
+  <img src="https://img.shields.io/badge/Medical%20Supply%20Chain-Equipment%20Distribution-0369A1?style=flat-square" alt="Medical equipment distribution"/>
+</p>
+
+- **Messaging platforms:** authentication and authorization, accounts, campaigns, contacts, routing, supplier/carrier inventory, notifications, gateway configuration, and opt-out workflows.
+- **Real-time transactional applications:** live auctions, bid validation and synchronization, wallet and redemption flows, and status notifications.
+- **Healthcare products:** health data and vitals tracking, role-based access, goal/task management, dashboards, and reports.
+- **Commerce and growth products:** e-commerce, vehicle-part compatibility, referral tracking, rewards, and business analytics.
+- **Business operations:** HR and employee workflows, task assignment, productivity tools, and medical equipment distribution.
 
 ## 🛠️ Tech Stack
 
@@ -77,6 +99,35 @@ I enjoy turning product requirements into reliable applications, improving exist
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha"/>
   <img src="https://img.shields.io/badge/AI_Assisted_Development-6E40C9?style=flat-square" alt="AI-assisted development"/>
 </p>
+
+## 🗂️ Project & Domain Mapping
+
+I've worked across several product domains, building applications for different business needs:
+
+| Domain | Product / Use Case | Key Areas |
+|---|---|---|
+| 💬 **Messaging & Communications** | SMS Global 2.0 | Messaging platform microservices, authentication and authorization, account management, campaigns, contacts, routing, supplier/carrier inventory, gateway configuration, notifications, and opt-out processing |
+| 🔨 **Online Auctions** | ZipBid | Live bidding, auction and lot management, bid validation, winner selection, and auction reporting |
+| 💰 **Savings & Rewards** | Snbla | Savings goals, merchant/user wallets, redemption, and rewards workflows |
+| 🤝 **Referral Marketing** | ReferUs Network | Referral tracking, multi-level administration, and business analytics |
+| 🩺 **Healthcare & Health Data** | EGC, Vitals Vault | Healthcare workflows, goal and task management, vitals tracking, dashboards, and reports |
+| 🛒 **E-commerce & Automotive** | The Auto Parts Shop | Online shopping, vehicle-specific part compatibility, and SEO-focused web experiences |
+| 🏢 **Organization & Workforce Management** | Manage My Org | HR workflows, employee management, task assignments, and lead tracking |
+| ⚡ **Productivity Tools** | Smarty AI | Tasks, notes, meeting scheduling, and reminders |
+| 🏥 **Medical Equipment Distribution** | FSD | Distribution workflows for medical equipment targeting US government contracts |
+
+## 🧱 Microservices & Platform Engineering
+
+### 💬 SMS Global 2.0 — Messaging Platform
+A microservices-based messaging platform focused on managing messaging workflows and supporting reliable delivery and routing.
+
+- **Service areas:** Authentication, accounts, campaigns, contacts, notifications, routing, supplier/carrier inventory, gateway configuration, and opt-out processing
+- **Backend technologies:** Node.js, TypeScript, NestJS, Fastify
+- **Data & infrastructure:** PostgreSQL, DynamoDB, Redis, AWS, Terraform, Docker
+- **Engineering focus:** REST APIs, service boundaries, authentication/authorization, database schema design, structured logging, testing, and CI/CD workflows
+- **Routing approach:** A routing service provides route and supplier data, while gateways make the actual routing decisions; the MVP supports a single-carrier route with a structure designed to support future routing enhancements
+
+This work has involved both service implementation and platform-level engineering discussions, including database separation, API contracts, security, infrastructure, and deployment readiness.
 
 ## 🚀 Featured Projects
 
@@ -139,14 +190,14 @@ An e-commerce platform with vehicle-specific auto-part compatibility features.
 
 ## 📈 GitHub Activity
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
+<!-- Replace maheshvarpandey with your actual GitHub username. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshvarpandey&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshvarpandey&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub streak statistics" />
+  <img src="https://streak-stats.demolab.com?user=maheshvarpandey&hide_border=true" alt="GitHub streak statistics" />
 </p>
 
 ---
@@ -156,7 +207,7 @@ An e-commerce platform with vehicle-specific auto-part compatibility features.
 I'm always happy to connect with developers, collaborate on interesting products, and exchange ideas about full-stack development.
 
 - 🌐 **Portfolio:** [maheshvarpa.web.app](https://maheshvarpa.web.app/)
-- 💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/maheshvarpandey)
+- 💻 **GitHub:** [github.com/maheshvarpandey](https://github.com/maheshvarpandey)
 
 <p align="center">
   <i>Building useful software, learning continuously, and improving one release at a time.</i>
